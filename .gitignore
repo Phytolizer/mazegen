@@ -1,0 +1,11 @@
+/.vs
+/.vscode
+/build
+/out
+/.cache
+
+*.lib
+*.pdb
+*.obj
+*.dll
+*.ilk
